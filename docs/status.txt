@@ -1,0 +1,7 @@
+PS C:\Users\alex_\OneDrive - Florida State University\Term 4 Spring 25\CEN-4020- Gaitros\Assignment#2-Repo\assignment2> git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+PS C:\Users\alex_\OneDrive - Florida State University\Term 4 Spring 25\CEN-4020- Gaitros\Assignment#2-Repo\assignment2> 
