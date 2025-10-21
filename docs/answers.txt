@@ -1,0 +1,45 @@
+Annotations:
+
+Git Labs Tutorial Date Completed: 10/21/2025
+GitHub Account Setup on: 10/17/2024 (approx)
+GitHub Repository Access: https://github.com/SAS24E/assignment2 
+
+
+
+
+
+1.
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (8/8), 945 bytes | 945.00 KiB/s, done.
+Total 8 (delta 2), reused 1 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+To https://github.com/SAS24E/assignment2.git
+   096cd76..8644561  master -> master
+
+
+2. Total 9:
+Command used: git rev-list --all --count
+(git log --all only show's three(my commits) however the command above works for all.)\
+
+3. Date:    Tue Oct 21 17:12:46 2025 -0500
+command used:  git log ./README.md
+
+4. Branches are useful because teams can work on different features at the same time. This allows users to develop in isolated environments and not interfer with eachother too much(obviosuly still merge conflicts but they can be mitigated)
+
+5. git status shows current state of the working directory while git log shows the repositorys commit history. 
+
+6. command: git log -- Vehicle.h
+
+7. command: git log --grep="file"
+
+8. 
+    1. Inheritance is when one class derives from another and inherits its attributes and methods.
+    2. Polymorphishm refers to when the same method depends differently depending on the object given.
+    3. Encapsulation refers to keeping data private in a class and using methods to access said data.
+
+9. The main difference between their workflow is that the lieutenant's merge multiple developers code into their repositorys while the dictators only need to merge from the lieutenant repostories (which are typically more experienced programmers).
+
+10. Essentially a larger team benefits because this results in cleaner code due to being managed/merged more often and it also results in less work for any single person. 
